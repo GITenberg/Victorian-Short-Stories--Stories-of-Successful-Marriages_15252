@@ -1,0 +1,68 @@
+_repo: Victorian-Short-Stories--Stories-of-Successful-Marriages_15252
+_version: 0.1.0
+contributor:
+  contributors:
+  - agent_name: Hardy, Thomas
+    birthdate: 1840
+    deathdate: 1928
+    gutenberg_agent_id: '23'
+    url: http://www.gutenberg.org/2009/agents/23
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Hardy
+  - agent_name: Moore, George Augustus
+    aliases:
+    - Rhone, Lady
+    - Moore, George Augustus
+    birthdate: 1852
+    deathdate: 1933
+    gutenberg_agent_id: '1366'
+    url: http://www.gutenberg.org/2009/agents/1366
+    wikipedia: http://en.wikipedia.org/wiki/George_Moore_(novelist)
+  - agent_name: Besant, Walter
+    aliases:
+    - Besant, Sir Walter
+    - Maurice, Walter
+    birthdate: 1836
+    deathdate: 1901
+    gutenberg_agent_id: '5404'
+    url: http://www.gutenberg.org/2009/agents/5404
+    wikipedia: http://en.wikipedia.org/wiki/Walter_Besant
+  - agent_name: Gaskell, Elizabeth Cleghorn
+    aliases:
+    - Mills, Cotton Mather
+    - Stevenson, Elizabeth
+    - Gaskell, Mrs.
+    - Gaskell, Elizabeth Cleghorn Stevenson
+    - Gaskell, E. C. (Elizabeth Cleghorn)
+    birthdate: 1810
+    deathdate: 1865
+    gutenberg_agent_id: '220'
+    url: http://www.gutenberg.org/2009/agents/220
+    wikipedia: http://en.wikipedia.org/wiki/Elizabeth_Gaskell
+  - agent_name: James, Henry
+    birthdate: 1843
+    deathdate: 1916
+    gutenberg_agent_id: '113'
+    url: http://www.gutenberg.org/2009/agents/113
+    wikipedia: http://en.wikipedia.org/wiki/Henry_James
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: ''
+gutenberg_bookshelf: Short Stories
+gutenberg_issued: '2005-03-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15252'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcsh 'Marriage -- Fiction'
+- !lcc 'PR'
+tableOfContents: The Manchester Marriage, by Elizabeth Gaskell -- A Mere Interlude,
+  by Thomas Hardy -- A Faithful Heart, by George Moore -- The Solid Gold Reef Company,
+  Limited, by Walter Besant -- The Tree Of Knowledge, by Henry James.
+title: 'Victorian Short Stories: Stories of Successful Marriages'
+url: http://www.gutenberg.org/ebooks/15252
